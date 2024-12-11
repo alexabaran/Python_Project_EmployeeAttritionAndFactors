@@ -58,7 +58,8 @@ Below is a more detailed breakdown of these aspects:
    Marital status has a strong correlation with attrition. Single employees show significantly higher attrition rates compared to married or divorced employees. For example:  
    - **23.62%** of single women left the company, compared to **11.40%** of married women.  
    - Married employees generally appear more stable in their roles, likely due to family responsibilities or a greater focus on long-term stability.  
-![image](https://github.com/user-attachments/assets/57f6d5b5-b34c-4786-aa26-8e3f89ff520d)
+![image](https://github.com/user-attachments/assets/245ef2c9-33a8-4c90-922a-b0651793aae1)
+
 
 - **Distance from Home:**  
    Employees who left the company had an average commute of **10.6 miles**, whereas those who stayed had an average commute of **9.2 miles**. This indicates that longer commutes might contribute to higher attrition rates, especially when combined with other factors like job dissatisfaction.  
