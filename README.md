@@ -69,7 +69,8 @@ Below is a more detailed breakdown of these aspects:
 
 - **Education Level:**  
    Attrition rates are higher among employees with lower levels of education. Employees with degrees in fields like HR, marketing, or technical disciplines tend to leave the company more often. This may reflect the demand for such skills in the job market, giving employees greater opportunities to switch roles.  
-![image](https://github.com/user-attachments/assets/f639b6b6-2dc6-4c5f-b050-9f7b9110c62d)
+![image](https://github.com/user-attachments/assets/90aed25a-b18f-457a-bf16-b68ebe7f4bbd)
+
 
 - *Work experience:** 
   Employees with frequent job changes had higher attrition rates. For example, those who worked in 5–8 companies had an attrition rate of 27%, compared to 7.6% for those with 0–2 companies. This suggests that frequent job changes may indicate a greater likelihood of turnover, driven by personal preferences or environmental factors.
