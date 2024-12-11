@@ -46,15 +46,13 @@ The **HR department** was the main stakeholder in this project. They sought insi
 ## Personal Analysis Focus
 
 I delved deeper into how **personal life factors** (such as marital status, distance from home, and age) influence an employee's decision to leave the company. 
-
 ![image](https://github.com/user-attachments/assets/e1489d18-0ea9-49f6-a027-6a9430c32f6e)
 
 Below is a more detailed breakdown of these aspects:  
 
 - **Age Groups:**  
    Employees aged **18–21** exhibit the highest attrition rate of **53.66%**, with a steady decline in attrition rates as age increases. This suggests younger employees may leave due to exploring career opportunities or job mismatches early in their careers.
-  
-  ![image](https://github.com/user-attachments/assets/c74e9ef9-3d9a-4115-a36a-d5cb96229490)
+![image](https://github.com/user-attachments/assets/c74e9ef9-3d9a-4115-a36a-d5cb96229490)
   
 - **Marital Status:**  
    Marital status has a strong correlation with attrition. Single employees show significantly higher attrition rates compared to married or divorced employees. For example:  
@@ -74,7 +72,8 @@ Below is a more detailed breakdown of these aspects:
 
 - *Work experience:** 
   Employees with frequent job changes had higher attrition rates. For example, those who worked in 5–8 companies had an attrition rate of 27%, compared to 7.6% for those with 0–2 companies. This suggests that frequent job changes may indicate a greater likelihood of turnover, driven by personal preferences or environmental factors.
-![image](https://github.com/user-attachments/assets/fe3fde3d-e86e-48ac-890a-68501dc6191b)
+![image](https://github.com/user-attachments/assets/98c95c18-2222-41d1-a0e2-39727c6d6d4b)
+
 
 By analyzing these personal factors, HR can focus on retention strategies such as reducing commuting challenges, addressing the needs of younger employees, and creating targeted engagement initiatives for single employees.  
 
