@@ -46,7 +46,8 @@ The **HR department** was the main stakeholder in this project. They sought insi
 ## Personal Analysis Focus
 
 I delved deeper into how **personal life factors** (such as marital status, distance from home, and age) influence an employee's decision to leave the company. 
-![image](https://github.com/user-attachments/assets/e1489d18-0ea9-49f6-a027-6a9430c32f6e)
+![image](https://github.com/user-attachments/assets/620533fe-580b-423a-9d1b-889e8dad5f17)
+
 
 Below is a more detailed breakdown of these aspects:  
 
